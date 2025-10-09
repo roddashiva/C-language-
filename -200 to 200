@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main()
+{
+    int i;
+    for(i=-200;i<=200;i++)
+    printf("%d,",i);
+}
