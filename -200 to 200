@@ -2,6 +2,6 @@
 void main()
 {
     int i;
-    for(i=-200;i<=200;i++)
+    for(i=-200;i<=200;i+3)
     printf("%d,",i);
 }
